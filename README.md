@@ -1,5 +1,9 @@
 👋 Hi, I'm Swetha!
 
+🚀 Python Developer | Web Developer | Full Stack Developer
+
+I specialize in Python development, web development, and Full Stack development. Passionate about building smart solutions using AI and full-stack technologies.
+
 📝 Project Overview
 
 A full stack web application for managing student details efficiently.
