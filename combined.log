@@ -1,0 +1,87 @@
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-10-14T16:27:19.307Z"}
+{"level":"info","message":{"duration":"33ms","method":"GET","params":{},"path":"/api/courses","query":{},"status":200},"timestamp":"2025-10-14T16:27:19.320Z"}
+{"level":"info","message":"Retrieved 0 courses successfully","timestamp":"2025-10-14T16:27:19.327Z"}
+{"level":"info","message":{"duration":"7ms","method":"GET","params":{},"path":"/api/courses","query":{},"status":304},"timestamp":"2025-10-14T16:27:19.331Z"}
+{"courseId":"68ee7b3fb9855fcc973a7c1c","level":"info","message":"New course created:","name":"Computer Engineering","timestamp":"2025-10-14T16:33:03.694Z"}
+{"level":"info","message":{"body":{"description":"Learn how to code","duration":12,"name":"Computer Engineering","status":"active"},"duration":"28ms","method":"POST","params":{},"path":"/api/courses","query":{},"status":201},"timestamp":"2025-10-14T16:33:03.697Z"}
+{"level":"info","message":"Retrieved 1 courses successfully","timestamp":"2025-10-14T16:33:03.709Z"}
+{"level":"info","message":{"duration":"9ms","method":"GET","params":{},"path":"/api/courses","query":{},"status":200},"timestamp":"2025-10-14T16:33:03.711Z"}
+{"activeCourses":1,"activeStudents":0,"courseCounts":[],"graduates":0,"level":"info","message":"Dashboard statistics retrieved successfully:","successRate":0,"timestamp":"2025-10-14T16:33:03.789Z","totalCourses":1,"totalStudents":0}
+{"level":"info","message":{"duration":"73ms","method":"GET","params":{},"path":"/api/dashboard/stats","query":{},"status":200},"timestamp":"2025-10-14T16:33:03.791Z"}
+{"level":"info","message":"Retrieved 0 students successfully","timestamp":"2025-10-14T16:34:00.934Z"}
+{"level":"info","message":{"duration":"13ms","method":"GET","params":{},"path":"/api/students","query":{},"status":200},"timestamp":"2025-10-14T16:34:00.935Z"}
+{"activeCourses":1,"activeStudents":0,"courseCounts":[],"graduates":0,"level":"info","message":"Dashboard statistics retrieved successfully:","successRate":0,"timestamp":"2025-10-14T16:34:00.945Z","totalCourses":1,"totalStudents":0}
+{"level":"info","message":{"duration":"22ms","method":"GET","params":{},"path":"/api/dashboard/stats","query":{},"status":304},"timestamp":"2025-10-14T16:34:00.947Z"}
+{"level":"info","message":"Retrieved 1 courses successfully","timestamp":"2025-10-14T16:34:03.283Z"}
+{"level":"info","message":{"duration":"5ms","method":"GET","params":{},"path":"/api/courses","query":{},"status":304},"timestamp":"2025-10-14T16:34:03.285Z"}
+{"courseId":"68ee7baeb9855fcc973a7c2d","level":"info","message":"New course created:","name":"Full stack","timestamp":"2025-10-14T16:34:54.790Z"}
+{"level":"info","message":{"body":{"description":"Learn about website","duration":24,"name":"Full stack","status":"active"},"duration":"10ms","method":"POST","params":{},"path":"/api/courses","query":{},"status":201},"timestamp":"2025-10-14T16:34:54.793Z"}
+{"level":"info","message":"Retrieved 2 courses successfully","timestamp":"2025-10-14T16:34:54.827Z"}
+{"level":"info","message":{"duration":"20ms","method":"GET","params":{},"path":"/api/courses","query":{},"status":200},"timestamp":"2025-10-14T16:34:54.833Z"}
+{"activeCourses":2,"activeStudents":0,"courseCounts":[],"graduates":0,"level":"info","message":"Dashboard statistics retrieved successfully:","successRate":0,"timestamp":"2025-10-14T16:34:54.875Z","totalCourses":2,"totalStudents":0}
+{"level":"info","message":{"duration":"34ms","method":"GET","params":{},"path":"/api/dashboard/stats","query":{},"status":200},"timestamp":"2025-10-14T16:34:54.881Z"}
+{"courseId":"68ee7c18b9855fcc973a7c36","level":"info","message":"New course created:","name":"Python","timestamp":"2025-10-14T16:36:40.293Z"}
+{"level":"info","message":{"body":{"description":"Learn code easily","duration":12,"name":"Python","status":"active"},"duration":"9ms","method":"POST","params":{},"path":"/api/courses","query":{},"status":201},"timestamp":"2025-10-14T16:36:40.295Z"}
+{"level":"info","message":"Retrieved 3 courses successfully","timestamp":"2025-10-14T16:36:40.315Z"}
+{"level":"info","message":{"duration":"9ms","method":"GET","params":{},"path":"/api/courses","query":{},"status":200},"timestamp":"2025-10-14T16:36:40.320Z"}
+{"activeCourses":3,"activeStudents":0,"courseCounts":[],"graduates":0,"level":"info","message":"Dashboard statistics retrieved successfully:","successRate":0,"timestamp":"2025-10-14T16:36:40.340Z","totalCourses":3,"totalStudents":0}
+{"level":"info","message":{"duration":"18ms","method":"GET","params":{},"path":"/api/dashboard/stats","query":{},"status":200},"timestamp":"2025-10-14T16:36:40.341Z"}
+{"level":"info","message":{"duration":"36ms","method":"GET","params":{"id":"68ee7c18b9855fcc973a7c36"},"path":"/api/courses/68ee7c18b9855fcc973a7c36","query":{},"status":200},"timestamp":"2025-10-14T16:36:46.085Z"}
+{"courseId":"68ee7c18b9855fcc973a7c36","level":"info","message":"Course updated successfully:","name":"Python","timestamp":"2025-10-14T16:36:51.741Z"}
+{"level":"info","message":{"body":{"description":"Learn code easily..","duration":12,"name":"Python","status":"active"},"duration":"39ms","method":"PUT","params":{"id":"68ee7c18b9855fcc973a7c36"},"path":"/api/courses/68ee7c18b9855fcc973a7c36","query":{},"status":200},"timestamp":"2025-10-14T16:36:51.744Z"}
+{"level":"info","message":"Retrieved 3 courses successfully","timestamp":"2025-10-14T16:36:51.754Z"}
+{"level":"info","message":{"duration":"10ms","method":"GET","params":{},"path":"/api/courses","query":{},"status":200},"timestamp":"2025-10-14T16:36:51.759Z"}
+{"activeCourses":3,"activeStudents":0,"courseCounts":[],"graduates":0,"level":"info","message":"Dashboard statistics retrieved successfully:","successRate":0,"timestamp":"2025-10-14T16:36:51.797Z","totalCourses":3,"totalStudents":0}
+{"level":"info","message":{"duration":"25ms","method":"GET","params":{},"path":"/api/dashboard/stats","query":{},"status":304},"timestamp":"2025-10-14T16:36:51.800Z"}
+{"courseId":"68ee7c18b9855fcc973a7c36","level":"info","message":"Course deleted successfully:","name":"Python","timestamp":"2025-10-14T16:37:03.024Z"}
+{"level":"info","message":{"duration":"51ms","method":"DELETE","params":{"id":"68ee7c18b9855fcc973a7c36"},"path":"/api/courses/68ee7c18b9855fcc973a7c36","query":{},"status":200},"timestamp":"2025-10-14T16:37:03.026Z"}
+{"level":"info","message":"Retrieved 2 courses successfully","timestamp":"2025-10-14T16:37:03.035Z"}
+{"level":"info","message":{"duration":"7ms","method":"GET","params":{},"path":"/api/courses","query":{},"status":200},"timestamp":"2025-10-14T16:37:03.037Z"}
+{"activeCourses":2,"activeStudents":0,"courseCounts":[],"graduates":0,"level":"info","message":"Dashboard statistics retrieved successfully:","successRate":0,"timestamp":"2025-10-14T16:37:03.073Z","totalCourses":2,"totalStudents":0}
+{"level":"info","message":{"duration":"33ms","method":"GET","params":{},"path":"/api/dashboard/stats","query":{},"status":200},"timestamp":"2025-10-14T16:37:03.076Z"}
+{"level":"info","message":{"duration":"6ms","method":"GET","params":{"id":"68ee7b3fb9855fcc973a7c1c"},"path":"/api/courses/68ee7b3fb9855fcc973a7c1c","query":{},"status":200},"timestamp":"2025-10-14T16:38:08.014Z"}
+{"level":"info","message":{"duration":"15ms","method":"GET","params":{"id":"68ee7baeb9855fcc973a7c2d"},"path":"/api/courses/68ee7baeb9855fcc973a7c2d","query":{},"status":200},"timestamp":"2025-10-14T16:38:16.907Z"}
+{"courseId":"68ee7baeb9855fcc973a7c2d","level":"info","message":"Course updated successfully:","name":"Full stack","timestamp":"2025-10-14T16:38:23.544Z"}
+{"level":"info","message":{"body":{"description":"Learn about website","duration":22,"name":"Full stack","status":"active"},"duration":"37ms","method":"PUT","params":{"id":"68ee7baeb9855fcc973a7c2d"},"path":"/api/courses/68ee7baeb9855fcc973a7c2d","query":{},"status":200},"timestamp":"2025-10-14T16:38:23.546Z"}
+{"level":"info","message":"Retrieved 2 courses successfully","timestamp":"2025-10-14T16:38:23.554Z"}
+{"level":"info","message":{"duration":"7ms","method":"GET","params":{},"path":"/api/courses","query":{},"status":200},"timestamp":"2025-10-14T16:38:23.558Z"}
+{"activeCourses":2,"activeStudents":0,"courseCounts":[],"graduates":0,"level":"info","message":"Dashboard statistics retrieved successfully:","successRate":0,"timestamp":"2025-10-14T16:38:23.582Z","totalCourses":2,"totalStudents":0}
+{"level":"info","message":{"duration":"18ms","method":"GET","params":{},"path":"/api/dashboard/stats","query":{},"status":304},"timestamp":"2025-10-14T16:38:23.583Z"}
+{"level":"info","message":"Retrieved 0 students successfully","timestamp":"2025-10-14T16:38:41.031Z"}
+{"level":"info","message":{"duration":"5ms","method":"GET","params":{},"path":"/api/students","query":{},"status":304},"timestamp":"2025-10-14T16:38:41.033Z"}
+{"activeCourses":2,"activeStudents":0,"courseCounts":[],"graduates":0,"level":"info","message":"Dashboard statistics retrieved successfully:","successRate":0,"timestamp":"2025-10-14T16:38:41.041Z","totalCourses":2,"totalStudents":0}
+{"level":"info","message":{"duration":"13ms","method":"GET","params":{},"path":"/api/dashboard/stats","query":{},"status":304},"timestamp":"2025-10-14T16:38:41.043Z"}
+{"level":"info","message":"Retrieved 0 students successfully","timestamp":"2025-10-14T16:38:49.219Z"}
+{"level":"info","message":{"duration":"3ms","method":"GET","params":{},"path":"/api/students","query":{},"status":304},"timestamp":"2025-10-14T16:38:49.220Z"}
+{"activeCourses":2,"activeStudents":0,"courseCounts":[],"graduates":0,"level":"info","message":"Dashboard statistics retrieved successfully:","successRate":0,"timestamp":"2025-10-14T16:38:49.227Z","totalCourses":2,"totalStudents":0}
+{"level":"info","message":{"duration":"11ms","method":"GET","params":{},"path":"/api/dashboard/stats","query":{},"status":304},"timestamp":"2025-10-14T16:38:49.229Z"}
+{"course":"68ee7baeb9855fcc973a7c2d","level":"info","message":"New student created:","name":"sweety","studentId":"68ee7d17b9855fcc973a7c69","timestamp":"2025-10-14T16:40:55.867Z"}
+{"level":"info","message":{"body":{"course":"68ee7baeb9855fcc973a7c2d","email":"sweety09@gmail.com","enrollmentDate":"2025-10-21","name":"sweety","status":"active"},"duration":"38ms","method":"POST","params":{},"path":"/api/students","query":{},"status":201},"timestamp":"2025-10-14T16:40:55.869Z"}
+{"level":"info","message":"Retrieved 1 students successfully","timestamp":"2025-10-14T16:40:55.878Z"}
+{"level":"info","message":{"duration":"12ms","method":"GET","params":{},"path":"/api/students","query":{},"status":200},"timestamp":"2025-10-14T16:40:55.886Z"}
+{"activeCourses":2,"activeStudents":1,"courseCounts":[{"_id":"68ee7baeb9855fcc973a7c2d","count":1}],"graduates":0,"level":"info","message":"Dashboard statistics retrieved successfully:","successRate":0,"timestamp":"2025-10-14T16:40:55.913Z","totalCourses":2,"totalStudents":1}
+{"level":"info","message":{"duration":"23ms","method":"GET","params":{},"path":"/api/dashboard/stats","query":{},"status":200},"timestamp":"2025-10-14T16:40:55.915Z"}
+{"level":"info","message":"Retrieved 1 students successfully","timestamp":"2025-10-14T16:46:03.617Z"}
+{"level":"info","message":{"duration":"7ms","method":"GET","params":{},"path":"/api/students","query":{},"status":304},"timestamp":"2025-10-14T16:46:03.619Z"}
+{"activeCourses":2,"activeStudents":1,"courseCounts":[{"_id":"68ee7baeb9855fcc973a7c2d","count":1}],"graduates":0,"level":"info","message":"Dashboard statistics retrieved successfully:","successRate":0,"timestamp":"2025-10-14T16:46:03.629Z","totalCourses":2,"totalStudents":1}
+{"level":"info","message":{"duration":"16ms","method":"GET","params":{},"path":"/api/dashboard/stats","query":{},"status":304},"timestamp":"2025-10-14T16:46:03.631Z"}
+{"level":"info","message":"Student search initiated:","searchTerm":"sw","timestamp":"2025-10-14T16:49:28.117Z"}
+{"level":"info","message":"Student search completed:","resultsCount":1,"searchTerm":"sw","timestamp":"2025-10-14T16:49:28.161Z"}
+{"level":"info","message":{"duration":"47ms","method":"GET","params":{},"path":"/api/students/search","query":{"q":"sw"},"status":200},"timestamp":"2025-10-14T16:49:28.163Z"}
+{"level":"info","message":"Student search initiated:","searchTerm":"swe","timestamp":"2025-10-14T16:49:30.293Z"}
+{"level":"info","message":"Student search completed:","resultsCount":1,"searchTerm":"swe","timestamp":"2025-10-14T16:49:30.296Z"}
+{"level":"info","message":{"duration":"7ms","method":"GET","params":{},"path":"/api/students/search","query":{"q":"swe"},"status":200},"timestamp":"2025-10-14T16:49:30.299Z"}
+{"level":"info","message":"Student search initiated:","searchTerm":"swee","timestamp":"2025-10-14T16:49:30.689Z"}
+{"level":"info","message":"Student search completed:","resultsCount":1,"searchTerm":"swee","timestamp":"2025-10-14T16:49:30.693Z"}
+{"level":"info","message":{"duration":"8ms","method":"GET","params":{},"path":"/api/students/search","query":{"q":"swee"},"status":200},"timestamp":"2025-10-14T16:49:30.697Z"}
+{"level":"info","message":"Student search initiated:","searchTerm":"sweet","timestamp":"2025-10-14T16:49:32.546Z"}
+{"level":"info","message":"Student search completed:","resultsCount":1,"searchTerm":"sweet","timestamp":"2025-10-14T16:49:32.552Z"}
+{"level":"info","message":{"duration":"12ms","method":"GET","params":{},"path":"/api/students/search","query":{"q":"sweet"},"status":200},"timestamp":"2025-10-14T16:49:32.558Z"}
+{"level":"info","message":"Student search initiated:","searchTerm":"sweety","timestamp":"2025-10-14T16:49:34.196Z"}
+{"level":"info","message":"Student search completed:","resultsCount":1,"searchTerm":"sweety","timestamp":"2025-10-14T16:49:34.199Z"}
+{"level":"info","message":{"duration":"4ms","method":"GET","params":{},"path":"/api/students/search","query":{"q":"sweety"},"status":200},"timestamp":"2025-10-14T16:49:34.201Z"}
+{"level":"info","message":"Student search initiated:","searchTerm":"sweet","timestamp":"2025-10-14T16:49:41.686Z"}
+{"level":"info","message":"Student search completed:","resultsCount":1,"searchTerm":"sweet","timestamp":"2025-10-14T16:49:41.700Z"}
+{"level":"info","message":{"duration":"19ms","method":"GET","params":{},"path":"/api/students/search","query":{"q":"sweet"},"status":304},"timestamp":"2025-10-14T16:49:41.705Z"}
+{"level":"info","message":"Retrieved 1 students successfully","timestamp":"2025-10-14T16:49:42.311Z"}
+{"level":"info","message":{"duration":"5ms","method":"GET","params":{},"path":"/api/students","query":{},"status":304},"timestamp":"2025-10-14T16:49:42.313Z"}
