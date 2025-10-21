@@ -1,3 +1,5 @@
+👋 Hi, I'm Swetha!
+
 📝 Project Overview
 
 A full stack web application for managing student details efficiently.
